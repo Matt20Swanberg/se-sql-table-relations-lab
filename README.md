@@ -370,15 +370,26 @@ The following screenshots can be added to demonstrate successful execution and t
 ### SQL Query Results
 
 Screenshots showing the query for each step:
+
+#### Step 1
 ![Step 1](screenshots/step1.png)
+#### Step 2
 ![Step 2](screenshots/step2.png)
+#### Step 3
 ![Step 3](screenshots/step3.png)
+#### Step 4
 ![Step 4](screenshots/step4.png)
+#### Step 5
 ![Step 5](screenshots/step5.png)
+#### Step 6
 ![Step 6](screenshots/step6.png)
+#### Step 7
 ![Step 7](screenshots/step7.png)
+#### Step 8
 ![Step 8](screenshots/step8.png)
+#### Step 9
 ![Step 9](screenshots/step9.png)
+#### Step 10
 ![Step 10](screenshots/step10.png)
 
 ### Test Suite Results
